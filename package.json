@@ -1,6 +1,6 @@
 {
   "name": "packetparser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse incoming utf8 packets over a socket",
   "main": "packetparser.js",
   "scripts": {
